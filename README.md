@@ -1,2 +1,2 @@
-# gosss
-Easy serverless testing/validation
+# gosss [Golang Serverless Service Spec]
+Easy serverless Service testing/validation
